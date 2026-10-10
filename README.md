@@ -1,6 +1,6 @@
 <div align="center">
 
-# José Esapu Díaz Hernández
+# José Esaú Díaz Hernández
 
 ### Software útil para problemas concretos
 
